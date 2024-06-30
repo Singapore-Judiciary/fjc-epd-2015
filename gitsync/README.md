@@ -1,5 +1,5 @@
 ---
-description: 'LAST UPDATED: 01 MARCH 2024'
+description: 'LAST UPDATED: 01 JULY 2024'
 ---
 
 # Family Justice Courts Practice Directions

@@ -63,7 +63,7 @@ _**Statement of Particulars**_
 
 **Separation**
 
-> (f) where a statement of claim pleads facts that are based on section 95(3)(d) or (e) of the Women’s Charter (Cap. 353) (i.e. 3 years’ separation with consent and 4 years’ separation respectively), the Statement of Particulars must specifically contain the following particulars:
+> (f) where a statement of claim pleads facts that are based on section 95A(1)(d) or (e) of the Women’s Charter (Cap. 353) (i.e. 3 years’ separation with consent and 4 years’ separation respectively), the Statement of Particulars must specifically contain the following particulars:
 >
 > > (i) the date which the Plaintiff and the Defendant commenced their separation;
 > >
@@ -81,9 +81,11 @@ _**Statement of Particulars**_
 >
 > (b) a copy of the Defendant’s Consent to Grant Judgment on Three Years’ Separation in Form 192 of Appendix A to these Practice Directions (where relevant);
 >
-> (c) a copy of the Ministry of Law Insolvency Office bankruptcy search against the Plaintiff showing the results of the search (e.g. whether the search is negative or if it shows that the Plaintiff is a bankrupt or that there are pending bankruptcy proceedings against the Plaintiff); and
+> (c) a copy of the Ministry of Law Insolvency Office bankruptcy search against the Plaintiff showing the results of the search (e.g. whether the search is negative or if it shows that the Plaintiff is a bankrupt or that there are pending bankruptcy proceedings against the Plaintiff);
 >
-> (d) a copy of the Ministry of Law Insolvency Office bankruptcy search against the Defendant showing the results of the search (e.g. whether the search is negative or if it shows that the Defendant is a bankrupt or that there are pending bankruptcy proceedings against the Defendant).
+> (d) a copy of the Ministry of Law Insolvency Office bankruptcy search against the Defendant showing the results of the search (e.g. whether the search is negative or if it shows that the Defendant is a bankrupt or that there are pending bankruptcy proceedings against the Defendant); and
+>
+> (e) if the parties are applying under section 95A(1)(f) of the Women’s Charter, a copy of an agreement that the marriage has irretrievably broken down in Form 271.
 
 (7) The bankruptcy searches for both the Plaintiff and Defendant must be conducted using the Ministry of Law Insolvency Office e-services.
 
@@ -94,6 +96,8 @@ _**Counterclaim**_
 > (a) whether the Defendant is a bankrupt; and
 >
 > (b) whether there are pending bankruptcy proceedings filed against the Defendant and if so, to state the details of such proceedings, such as the originating summons number, the type of bankruptcy proceedings (e.g. creditor’s or debtor’s bankruptcy application), the creditor(s), the amount of the Defendant’s debt, the stage of proceedings, etc.
+
+(9) If the parties are relying on section 95A(1)(f) of the Women’s Charter in the Counterclaim, a copy of an agreement that the marriage has irretrievably broken down in Form 271 must be annexed to the Counterclaim.
 
 ## 15. Request for simplified hearing track for divorce proceedings where parties have agreed on ancillary matters <a href="#id-15-request-for-simplified-hearing-track-for-divorce-proceedings-where-parties-have-agreed-on-ancilla" id="id-15-request-for-simplified-hearing-track-for-divorce-proceedings-where-parties-have-agreed-on-ancilla"></a>
 
@@ -137,9 +141,25 @@ _**How to apply for simplified uncontested divorce proceedings**_&#x20;
 >
 > (v) CPF Checklist for Consent Orders, in compliance with Paragraph 116(1)(d) of these Practice Directions, if applicable.
 >
-> (c) Request for Setting Down Trial for Action (in Form 29 of Appendix A to these Practice Directions); and
+> (c) Request for Setting Down Trial for Action (in Form 29 of Appendix A to these Practice Directions);
 >
-> (d) Plaintiff’s Affidavit of Evidence in Chief.
+> (d) Plaintiff’s Affidavit of Evidence in Chief;
+>
+> (e) If the Plaintiff is a prescribed party under section 94A of the Women’s Charter, one of the following documents:-
+>
+> > (i) a certificate (issued by a person appointed under section 94A(9)(b) of the Women’s Charter to conduct a parenting programme), stating that the Plaintiff has completed a parenting programme;
+> >
+> > (ii) a note (issued by a Director of the Ministry of Social and Family Development) stating that the Plaintiff is an excluded party;
+> >
+> > (iii) an Order of Court allowing the Plaintiff to file the Writ for Divorce under section 94A(4)(a) of the Women’s Charter and dispensing with the requirements in sub-paragraphs 6(e)(i) and (ii) above for the purposes of filing on the simplified uncontested hearing track; and
+>
+> (f) if the Defendant is a prescribed party under section 94A of the Women’s Charter, one of the following documents:-
+>
+> > (i) a certificate (issued by a person appointed under section 94A(9)(b) of the Women’s Charter to conduct a parenting programme), stating that the Defendant has completed a parenting programme;
+> >
+> > (ii) a note (issued by a Director of the Ministry of Social and Family Development) stating that the Defendant is an excluded party;
+> >
+> > (iii) an Order of Court dispensing with the requirements in sub-paragraphs 6(f)(i) and (ii) above for the purposes of filing on the simplified uncontested hearing track.
 
 (7) If the divorce is to be granted based on a Claim and Counterclaim, the following documents must be filed by the Defendant within 3 working days from the filing of the Writ:
 
