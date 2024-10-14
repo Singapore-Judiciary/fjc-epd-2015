@@ -15,13 +15,13 @@
 
 _**Citation**_
 
-(1) These Practice Directions may, with effect from 1 January 2015, be cited as the Family Justice Courts Practice Directions.
+(1) These Practice Directions may be cited as the Family Justice Courts Practice Directions 2015.
 
 _**Applicability**_
 
-(2) These Practice Directions shall apply to all proceedings in the Family Courts and the Family Division of the High Court unless otherwise stated.
+(2) These Practice Directions shall only apply to proceedings that are governed by the Family Justice Rules 2014.
 
-(3) For the avoidance of doubt, these Practice Directions shall, unless otherwise stated, apply to all proceedings in the Family Courts and the Family Division of the High Court with effect from 1 January 2015 regardless of the commencement date of the proceedings.
+(3) \[deleted]
 
 _**Citation of Legislation in Proceedings**_
 

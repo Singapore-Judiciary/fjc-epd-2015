@@ -1,8 +1,8 @@
 ---
-description: 'LAST UPDATED: 01 JULY 2024'
+description: 'LAST UPDATED: 15 October 2024'
 ---
 
-# Family Justice Courts Practice Directions
+# Family Justice Courts Practice Directions 2015
 
 
 
@@ -76,7 +76,7 @@ description: 'LAST UPDATED: 01 JULY 2024'
 
 10\. Arrangements for the welfare of children
 
-10A. Service on the immigration and Checkpoints Authority (“ICA”) with Court Orders or Injunctions restraining or prohibiting the taking of child out of jurisdiction
+10A. Providing the Immigration and Checkpoints Authority (“ICA”) with Court orders or injunctions restraining or prohibiting the taking of child out of Singapore
 
 ### Part V – Alternate Dispute Resolution
 
@@ -85,6 +85,10 @@ description: 'LAST UPDATED: 01 JULY 2024'
 12\. Mandatory Counselling & Mediation
 
 13\. Counselling
+
+13A. Family Neutral Evaluation process
+
+13B. Confidentiality
 
 ### Part VI – Proceedings for the Dissolution of Marriage under Part X of Women’s Charter
 

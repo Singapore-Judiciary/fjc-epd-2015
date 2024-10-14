@@ -5,6 +5,10 @@
 > 12\. Mandatory Counselling & Mediation
 >
 > 13\. Counselling
+>
+> 13A. Family Neutral Evaluation process
+>
+> 13B. Confidentiality
 
 ## 11. Mediation and/or Counselling Directed by Court <a href="#id-11-mediation-andor-counselling-directed-by-court" id="id-11-mediation-andor-counselling-directed-by-court"></a>
 
@@ -99,3 +103,99 @@
 (5) Any request for a change or vacation of the counselling appointment shall be made at least 3 working days before the appointed date.
 
 (6) Counselling sessions will be conducted on a without prejudice basis. Any consensus reached during counselling sessions will be recorded as a draft agreement. A copy of the draft agreement, recorded by the counsellor and signed by the parties, will be given to the parties to seek further advice from their respective counsel (if any). The draft agreement and all communications made in the course of counselling will be treated in strict confidence and shall not be admissible in any court.
+
+## 13A. Family Neutral Evaluation process
+
+{% tabs %}
+{% tab title="Explanatory Note" %}
+FNE is an alternative dispute resolution process that is available at the Family Dispute Resolution Division (“FDR”) to parties in suitable divorce cases for contested financial issues (such as maintenance and the division of matrimonial assets). With FNE, parties will be able to obtain an early and objective evaluation of their case from a neutral evaluator with subject matter expertise (“Evaluator”). More information on the criteria for FNE and its process is set out at the Singapore Courts website at [www.judiciary.gov.sg](http://www.judiciary.gov.sg).
+{% endtab %}
+{% endtabs %}
+
+_**Recommendation for Family Neutral Evaluation (“FNE”)**_
+
+(1) Pursuant to rule 22(2) of the Family Justice Rules 2014, if a Judge / mediator having conduct of a divorce case considers the case and its contested financial issues suitable for FNE, the parties will be informed of the same. The parties will usually be given 1 week to consider whether they wish to submit their financial issues for FNE. By default, FNEs are conducted on a non-binding basis. Parties may, by consent, opt for FNE to be conducted on a binding basis.
+
+(2) If both parties agree to submit their financial issues for FNE, the parties are to file the following documents within 1 week or any other period as directed by the Court:
+
+> (a) a duly signed Joint Consent Form in Form 272 of Appendix A of these Practice Directions; and
+>
+> (b) an “Other Hearing Related Request” to update the Court and seek directions for FNE.
+
+(3) A Preliminary Conference for the FNE will be convened by the Court around 3 weeks after the filing and acceptance of the documents referred to in sub-paragraph (2). In the interim, if the parties have not filed their Affidavits of Assets and Means, they may be directed to:
+
+> (a) exchange a list of assets, liabilities, means and expenses (together with all relevant supporting documents) within 2 weeks or any other period as directed by the Court; and
+>
+> (b) submit to FDR by email their respective Statements for FNE in Form 273 of Appendix A of these Practice Directions, together with all relevant supporting documents at least 3 working days before the Preliminary Conference.
+
+Parties will be given a designated email address (“FDR Email Address”) for the submission of their statements and documents.
+
+(4) The information and documents referred to in sub-paragraph (3)(a) are similar to the information and documents relevant to the financial issues referred for FNE that parties are required to provide in their Affidavits of Assets and Means.
+
+_**Preliminary Conference**_
+
+(5) Unless otherwise directed by the Court, all parties and their solicitors must attend the Preliminary Conference which will be conducted by the Evaluator.
+
+(6) At the Preliminary Conference, the Evaluator will discuss the following matters with the parties and their solicitors:
+
+> (a) the financial issues referred for FNE;
+>
+> (b) the areas of agreement and dispute;
+>
+> (c) whether the FNE will be undertaken on a binding or non-binding basis;
+>
+> (d) the date for the FNE session; and
+>
+> (e) any other matters that will facilitate the efficient conduct of the FNE.
+
+(7) Parties who have filed and exchanged their respective Affidavits of Assets and Means prior to the Preliminary Conference and who wish to agree upfront to a binding FNE, will be directed by the Evaluator to file the parties’ Agreement for Binding FNE in Form 275 of Appendix A of these Practice Directions before the FNE session is scheduled.
+
+(8) The Evaluator may give all necessary directions to facilitate the resolution of the case, including directions on submission of the following documents:
+
+> (a) each party’s further documents relevant or material to the FNE;
+>
+> (b) parties’ Joint Statement for FNE in Form 274 of Appendix A of these Practice Directions or any other joint summary, at least 3 working days before the FNE session; and
+>
+> (c) parties’ respective written submissions including case authorities.
+
+All parties’ statements, summaries, documents, and submissions for FNE are to be sent by email to the FDR Email Address and are not to be filed in the Electronic Filing Service.
+
+(9) At any stage of the FNE process, the Evaluator shall have the discretion to decline the conduct of FNE for a case in respect of any or all of its referred financial issues if the Evaluator is of the view that the case and / or the issue(s) are not suitable or have become unsuitable for FNE.
+
+_**FNE session**_
+
+(10) Unless otherwise directed, all parties shall attend the FNE session together with their solicitors. The solicitors having primary conduct over the case shall be present throughout the FNE session.
+
+(11) The FNE session will usually be fixed for half a day. Depending on its complexity, the Evaluator may schedule more than one FNE session to complete the evaluation of a case.
+
+(12) At the FNE session(s), the parties and their solicitors shall present their respective positions and supporting evidence to one another and the Evaluator. Rules of evidence do not apply in this process and cross-examination will generally not take place. The Evaluator may, at any time during the FNE session, ask questions to probe or clarify any submission or evidence presented by the parties. After all presentations and clarifications have been made, the Evaluator will give an evaluation of the relative merits of each party’s case and the likely outcome if it goes to trial.
+
+(13) If the parties have entered into an Agreement for Binding FNE, they will be required to prepare a draft consent order to give effect to the Evaluator’s evaluation and to submit the same to the Court for consideration and recording of a consent order. If the FNE was conducted on a non-binding basis, the parties will be expected to use the Evaluator’s evaluation in their negotiations towards a settlement of their dispute.
+
+_**Post-FNE Case Conference**_
+
+(14) For the purpose of case management, a case conference (“Post-FNE Case Conference”) will be fixed around 1 week after the delivery of the Evaluator’s evaluation. Unless otherwise directed, all parties shall attend the Post-FNE Case Conference together with their solicitors.
+
+(15) If the parties are able to arrive at a settlement at or before the Post-FNE Case Conference, parties may record a consent order at the conference.
+
+(16) In the event that the parties are unable to resolve their dispute, the Evaluator will give such directions as he or she thinks fit, to facilitate the resolution of the case.
+
+(17) If the parties have not previously attended mediation for their contested financial issues, the Evaluator may recommend that parties attend mediation at FDR to explore ways to resolve their dispute amicably and / or narrow the issues in contention. The results of the FNE may be made available by the Evaluator to the mediator for this purpose.
+
+## 13B. Confidentiality
+
+(1) Subject to sub-paragraph (2), the following shall be confidential and treated as “without prejudice” and shall not be disclosed to (or used as evidence in proceedings before) the Court dealing with any of the ancillary matters of the parties or in any other proceedings:
+
+> (a) all communications made by the parties and the Evaluator during the FNE, including the Evaluator’s evaluation; and
+>
+> (b) all documents and materials prepared, submitted and / or exchanged in the course of and for the FNE.
+
+(2) To avoid doubt, the following shall not be confidential:
+
+> (a) the parties’ Agreement for Binding FNE (if any);
+>
+> (b) the Evaluator’s written evaluation (only when parties have entered into an Agreement for Binding FNE);
+>
+> (c) directions given by the Evaluator / Judge after the conclusion of the FNE for the purpose of case management (including directions for the filing and exchange of affidavits); and
+>
+> (d) documents and materials prepared, submitted and / or exchanged in the course of and for the FNE that would in any event have been subject to discovery in other proceedings.
