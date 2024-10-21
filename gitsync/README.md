@@ -1,5 +1,5 @@
 ---
-description: 'LAST UPDATED: 15 October 2024'
+description: 'LAST UPDATED: 21 October 2024'
 ---
 
 # Family Justice Courts Practice Directions 2015
@@ -65,6 +65,24 @@ description: 'LAST UPDATED: 15 October 2024'
 * Oral Communications
 * Post Communications
 * Keeping Central Authority informed of judicial communications
+
+### Part IIIA - Therapeutic Justice Model
+
+7A. Introduction
+
+7B. Definition and objectives of Therapeutic Justice
+
+7C. Purpose and application
+
+7D. The tracks and the triage process
+
+7E. Standard Track
+
+7F. Teams Track
+
+7G. Role of parties and solicitors under the TJ Model
+
+7H.  Exercise of judge-led powers and the Court’s discretion as to costs
 
 ### Part IV – Processes relating to Children
 

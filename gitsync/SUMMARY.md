@@ -4,6 +4,7 @@
 * [Part I - Preliminary](part-i-preliminary.md)
 * [Part II - Commencement of Proceedings](part-ii-commencement-of-proceedings.md)
 * [Part III – Judge-Led Approach in Resolving Family Disputes](part-iii-judge-led-approach-in-resolving-family-disputes.md)
+* [Part IIIA - Therapeutic Justice Model](part-iiia-therapeutic-justice-model.md)
 * [Part IV – Processes relating to Children](part-iv-processes-relating-to-children.md)
 * [Part V – Alternate Dispute Resolution](part-v-alternate-dispute-resolution.md)
 * [Part VI – Proceedings for the Dissolution of Marriage under Part X of Women’s Charter](part-vi-proceedings-for-the-dissolution-of-marriage-under-part-x-of-womens-charter.md)
