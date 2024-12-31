@@ -268,7 +268,7 @@ _**Request for urgent hearing before Judge of the Family Division of the High Co
 
 (10) Any reference made to the record of proceedings in these Practice Directions shall refer to the Court’s record of proceedings of the hearing conducted by video or telephone conferencing.
 
-(11) Any queries or requests for assistance pertaining to hearings by video or telephone conferencing may be sent by email to [FJC\_FAMILY\_REGISTRY@judiciary.gov.sg](mailto:FJC\_FAMILY\_REGISTRY@judiciary.gov.sg).
+(11) Any queries or requests for assistance pertaining to hearings by video or telephone conferencing may be sent by email to [FJC\_FAMILY\_REGISTRY@judiciary.gov.sg](mailto:FJC_FAMILY_REGISTRY@judiciary.gov.sg).
 
 ## 161A. Technology Facilities in Supreme Court Building <a href="#id-161a-technology-facilities-in-supreme-court-building" id="id-161a-technology-facilities-in-supreme-court-building"></a>
 
@@ -482,7 +482,7 @@ _**General Correspondence**_
 
 (2) For cases which have been commenced electronically, a letter shall be sent to the Court by a law firm only using the Electronic Filing Service. If a letter is sent to the Court by a law firm in any other way, it is liable to be rejected. This sub-paragraph does not apply to litigants in person.
 
-(3) In addition, all letters should be captioned with the number of the cause to which they relate and the names of the parties. For example:
+(3) The minimum font size to be used is Times New Roman 12 or its equivalent, unless there are good reasons for using a smaller font size. In addition, all letters should be captioned with the number of the cause to which they relate and the names of the parties. For example:
 
 > **‘DIVORCE WRIT NO. 12345 OF 2015**
 >

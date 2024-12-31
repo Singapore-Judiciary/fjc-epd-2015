@@ -49,6 +49,10 @@ _**Registrar’s Circulars**_
 
 (8) Registrar’s Circulars can be found at the Singapore Courts website at [http://www.judiciary.gov.sg](http://www.judiciary.gov.sg/).
 
+_**Compliance with Practice Directions and Registrar’s Circulars**_
+
+(9) Practice Directions and Registrar’s Circulars are issued by the Registrar to supplement the Family Justice Rules 2014 by regulating court practice and procedure. Court users are expected to comply with all Practice Directions and Registrar’s Circulars issued by the Registrar.
+
 ## 2. Calculation of time <a href="#id-2-calculation-of-time" id="id-2-calculation-of-time"></a>
 
 The provisions in the Family Justice Rules shall apply to the calculation of time in these Practice Directions. In particular:
