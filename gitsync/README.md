@@ -20,6 +20,7 @@ description: 'LAST UPDATED: 1 January 2025'
 * Updating
 * Forms
 * Registrar’s Circulars
+* Compliance with Practice Directions and Registrar’s Circulars
 
 2\. Calculation of time
 
