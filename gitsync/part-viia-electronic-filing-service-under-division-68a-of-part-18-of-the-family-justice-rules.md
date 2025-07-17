@@ -182,9 +182,9 @@ Where a document is required to be amended, a fresh copy of the document must be
 
 (2) The Court will notify the party required to show proof of payment through either one or more of the following modes of communication - letter, electronic mail or mobile phone text message if the proof of payment is satisfactory. The notification of the Court’s acceptance of proof of payment will not be communicated orally over the telephone.
 
-(3) If the proof of payment via IFAMS is for any reason unsatisfactory, the Court may reject the proof of payment and notify the party required to show proof of payment, by the modes of communication specified in sub-paragraph (2) above.
+(3) If the proof of payment shown via the IFAMS is for any reason unsatisfactory, the Court may reject the proof of payment and notify the party required to show proof of payment, by the modes of communication specified in sub-paragraph (2).
 
-(4) For the avoidance of doubt, if the proof of payment via IFAMS is rejected, or if the party required to show proof of payment does not receive any notification from the Court exempting him from attending Court on the acceptance of the proof of payment, the party must attend personally at the Maintenance Mediation Chambers, Level 2 of the Family Justice Courts to show proof of payment on or before the date specified in the Order of Court.
+(4) To avoid doubt, if the proof of payment shown via the IFAMS is rejected, or if the party required to show proof of payment does not receive any notification from the Court exempting him or her from attending Court on the acceptance of the proof of payment, the party must attend personally at Service Hub 8 at Level 1 of the Family Justice Courts Building, to show proof of payment on or before the date specified in the Order of Court.
 
 ## 26N. Payment in and Out of Court <a href="#id-26n-payment-in-and-out-of-court" id="id-26n-payment-in-and-out-of-court"></a>
 

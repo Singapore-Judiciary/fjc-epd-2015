@@ -1,5 +1,5 @@
 ---
-description: 'LAST UPDATED: 1 January 2025'
+description: 'LAST UPDATED: 18 July 2025'
 ---
 
 # Family Justice Courts Practice Directions 2015
@@ -95,7 +95,7 @@ description: 'LAST UPDATED: 1 January 2025'
 
 10\. Arrangements for the welfare of children
 
-10A. Providing the Immigration and Checkpoints Authority (“ICA”) with Court orders or injunctions restraining or prohibiting the taking of child out of Singapore
+10A. Seeking assistance from the Immigration and Checkpoints Authority (“ICA”) to enforce Court orders or injunctions restraining or prohibiting the taking of a child out of Singapore
 
 ### Part V – Alternate Dispute Resolution
 
