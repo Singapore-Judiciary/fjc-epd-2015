@@ -205,7 +205,7 @@
 >
 > 126\. Appeals before the Family Division of the High Court from tribunal or person under Part 18 Division 55 of the Family Justice Rules
 >
-> 127\. Skeletal arguments for appeals before the Family Division of the High Court
+> 127\. \[deleted]
 >
 > 128\. Use of presentation slides for all proceedings before the Family Division of the High Court
 >
@@ -2641,13 +2641,13 @@ The Direction to Accountant-General for Payment Out must be in Form 181 of Appen
 
 _**Direction to Accountant-General for Payment In or Payment Out**_
 
-(5) Where the Direction to Accountant-General for Payment In has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment In Party”) must send a copy of the approved Direction to Accountant-General for Payment In and the relevant judgment or order of court to VITAL by email to [VITAL\_FS\_Receivable@vital.gov.sg](mailto:VITAL\_FS\_Receivable@vital.gov.sg). Upon successful receipt of the documents, VITAL will provide instructions on how electronic payment is to be effected. A receipt will be issued by VITAL to the Payment In Party when payment is received by the Accountant-General.
+(5) Where the Direction to Accountant-General for Payment In has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment In Party”) must send a copy of the approved Direction to Accountant-General for Payment In and the relevant judgment or order of court to VITAL by email to [VITAL\_FS\_Receivable@vital.gov.sg](mailto:VITAL_FS_Receivable@vital.gov.sg). Upon successful receipt of the documents, VITAL will provide instructions on how electronic payment is to be effected. A receipt will be issued by VITAL to the Payment In Party when payment is received by the Accountant-General.
 
-(6) Where the Direction to Accountant-General for Payment Out has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment Out Party”) must send a copy of the approved Direction to Accountant-General for Payment Out and the relevant judgment or order of court to VITAL by email to [VITAL\_FS\_Receivable@vital.gov.sg](mailto:VITAL\_FS\_Receivable@vital.gov.sg). Upon successful receipt of the documents, VITAL will provide instructions on the process for the release of the monies.
+(6) Where the Direction to Accountant-General for Payment Out has been approved, the party or his or her solicitors (as the case may be; collectively “the Payment Out Party”) must send a copy of the approved Direction to Accountant-General for Payment Out and the relevant judgment or order of court to VITAL by email to [VITAL\_FS\_Receivable@vital.gov.sg](mailto:VITAL_FS_Receivable@vital.gov.sg). Upon successful receipt of the documents, VITAL will provide instructions on the process for the release of the monies.
 
 _**Request for information on balance of monies paid into Court**_
 
-(7) Where a party wishes to request information on the balance of monies paid into Court, the party or his or her solicitors may send the request, accompanied by the case details and reasons for the request, by email to [VITAL\_FS\_Receivable@vital.gov.sg](mailto:VITAL\_FS\_Receivable@vital.gov.sg).
+(7) Where a party wishes to request information on the balance of monies paid into Court, the party or his or her solicitors may send the request, accompanied by the case details and reasons for the request, by email to [VITAL\_FS\_Receivable@vital.gov.sg](mailto:VITAL_FS_Receivable@vital.gov.sg).
 
 ## 156. Electronic payment of Court fees <a href="#id-156-electronic-payment-of-court-fees" id="id-156-electronic-payment-of-court-fees"></a>
 
