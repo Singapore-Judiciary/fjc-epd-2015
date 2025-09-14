@@ -37,29 +37,57 @@
 
 > (a) pre-trial or plead guilty procedure;
 >
-> (b) procedure in respect of bails and bonds under Division 5 of Part VI of the Criminal Procedure Code (Cap. 68);
+> (b) procedure in respect of bails and bonds under Division 5 of Part 6 of the Criminal Procedure Code 2010;
 >
-> (c) procedure under section 370 of the Criminal Procedure Code;
+> (c) procedure under section 370 of the Criminal Procedure Code 2010;
 >
-> (d) procedure for the search of premises or persons and the seizure of property (including any procedure under section 35(7) of the Criminal Procedure Code for the release of any property seized, or prohibited from being disposed of or dealt with under section 35(1) of the Code);
+> (d) procedure for the search of premises or persons and the seizure of property (including any procedure under section 35(7) of the Criminal Procedure Code 2010 for the release of any property seized, or prohibited from being disposed of or dealt with under section 35(1) of the Criminal Procedure Code 2010);
 >
 > (e) procedure for an inquiry to determine the order or orders to be made in respect of any property produced before the Court for which there are competing claims;
 >
-> (f) procedure for the surrender and return of travel documents under sections 112 and 113 of the Criminal Procedure Code;
+> (f) procedure for the surrender and return of travel documents under sections 112 and 113 of the Criminal Procedure Code 2010;
 >
-> (g) procedure for issuing summonses to persons to appear before the Court under section 115 of the Criminal Procedure Code;
+> (g) procedure for issuing summonses to persons to appear before the Court under section 115 of the Criminal Procedure Code 2010;
 >
-> (h) procedure for appeal under Division 1 of Part XX of the Criminal Procedure Code;
+> (h) procedure for appeal under Division 1 of Part 20 of the Criminal Procedure Code 2010;
 >
-> (i) procedure for the taking of evidence under section 21 of the Mutual Assistance in Criminal Matters Act (Cap. 190A); and
+> (i) procedure for the taking of evidence under section 21 of the Mutual Assistance in Criminal Matters Act 2000; and
 >
-> (j) application for the issue of a warrant under section 10(1) or 24(1) of the Extradition Act (Cap. 103).
+> (j) application for the issue of a warrant under section 10(1) or 24(1) of the Extradition Act 1968.
 
-(2) The directions in this Part must be read in conjunction with the Criminal Procedure Code (Electronic Filing and Service for Criminal Proceedings in the State Courts) Regulations 2013.
+(2) The directions in this Part must be read in conjunction with the Criminal Procedure Code (Electronic Filing and Service for State Courts and Youth Courts) Regulations 2013.
 
 **Appeals**
 
-(3) Skeletal arguments must be filed at least 10 days before the hearing. Hard copies of the bundles of authorities and skeletal arguments shall be tendered to the Youth Courts Registry at the same time as they are filed. Skeletal arguments filed in breach of this timeline will be stamped “Late Submission”. Paragraph 127(1) to (4) apply to skeletal arguments filed for appeals against Youth Court orders.
+(3) Skeletal arguments must be filed at least 10 days before the hearing. Hard copies of the bundles of authorities and skeletal arguments must be tendered to Correspondence Clearance Centre at Level 1, Supreme Court Building, in accordance with the directions in the relevant Registrar’s Notice for the appeal.
+
+(4) The term “skeletal arguments” includes “skeletal submissions”, “written submissions”, “written arguments” and all other variant terms by which such documents are known.
+
+(5) Counsel should submit skeletal arguments for the hearing of the appeal and give a copy to counsel for the other parties. Hard copies of skeletal arguments may be printed on one side or both sides of each piece of paper.
+
+(6) Skeletal arguments are abbreviated notes of the arguments that will be presented. Skeletal arguments are not formal documents and do not bind parties. They are a valuable tool to the Judges and are meant to expedite the hearing of the appeal. These notes should comply with the following requirements:
+
+> (a) they should contain a numbered list of the points proposed to be argued, stated in no more than 2 sentences;
+>
+> (b) each listed point should be accompanied by a full reference to the material to which counsel will be referring, i.e., the relevant pages or passages in the authorities, the record of appeal, the bundles of documents, the affidavits, the transcripts and the judgment under appeal;
+>
+> (c) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively;
+>
+> (d) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size used must be Times New Roman 12 or its equivalent;
+>
+> (e) the print of every page must be double-spaced, except for the following, which may be single-spaced:
+>
+> > (i) cover pages and tables of contents;
+> >
+> > (ii) paragraph and section headings or sub-headings;
+> >
+> > (iii) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> >
+> > (iv) extracts of transcripts;
+>
+> (f) every page must have a margin on all 4 sides, each of at least 35mm in width; and
+>
+> (g) Parties are strongly encouraged to print on both sides of each piece of paper where hard copies are tendered.
 
 ## 32. Magistrate’s complaints (Private summonses) <a href="#id-32-magistrates-complaints-private-summonses" id="id-32-magistrates-complaints-private-summonses"></a>
 
@@ -135,15 +163,15 @@ All criminal prosecutions instituted by or on behalf of the Public Prosecutor, a
 
 ## 38. Bundles of authorities for Youth Court Proceedings
 
-(1) In all Youth Courts proceedings, counsel shall submit their own bundle of authorities. In this regard, the following shall be complied with:
+(1) In all Youth Courts proceedings, counsel must submit their own bundle of authorities. In this regard, the following must be complied with:
 
-> (a) The bundle of authorities to be prepared by each party should:
+> (a) The bundle of authorities to be prepared by each party must:
 >
 > > (i) contain all the authorities, cases, statutes, subsidiary legislation and any other materials relied on;
 > >
 > > (ii) be properly bound with plastic ring binding or plastic spine thermal binding in accordance with the requirements set out in Paragraph 90(8)(c);
 > >
-> > (iii) be paginated consecutively at the top right hand corner of each page (for which purpose the pagination should commence on the first page of the first bundle and run sequentially to the last page of the last bundle); and
+> > (iii) have all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the bundle of authorities, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively; and
 > >
 > > (iv) contain an index of the authorities in that bundle and be appropriately flagged for easy reference.
 >
@@ -165,7 +193,7 @@ All criminal prosecutions instituted by or on behalf of the Public Prosecutor, a
 
 (5) It is not necessary for documents to have a cover page or backing sheet.
 
-(6) Every page of a document must be paginated consecutively so that the pagination on the actual document corresponds with the pagination of the Portable Document Format (PDF) document in the electronic case file, and the page number must be inserted at the centre top of the page.
+(6) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) of a document must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document in the electronic case file, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
 
 (7) The prosecution or defence must provide hard copies of documents that are electronically filed to the unrepresented litigant.
 

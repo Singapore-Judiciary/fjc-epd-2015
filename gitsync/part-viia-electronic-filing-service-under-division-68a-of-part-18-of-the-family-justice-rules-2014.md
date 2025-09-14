@@ -1,4 +1,4 @@
-# Part VIIA – Electronic Filing Service under Division 68A of Part 18 of the Family Justice Rules
+# Part VIIA – Electronic Filing Service under Division 68A of Part 18 of the Family Justice Rules 2014
 
 > 26A. Application
 >
@@ -88,9 +88,9 @@
 
 (3) It is not necessary for documents to have a cover page or backing sheet.
 
-(4) Every page of a document must be paginated consecutively so that the pagination on the actual document corresponds with the pagination of the Portable Document Format (PDF) document in the electronic case file, and the page number must be inserted at the top right hand corner of the page.
+(4) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) of a document must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document filed through the IFAMS portal, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
 
-(5) Under rule 929F(5) and rule 929F(6) of the Family Justice Rules, a party must file, before the commencement of the trial, an electronic reproduction of the document in IFAMS unless the Court allows the document to be tendered during the trial. For the purposes of these rules, the Mentions Court will determine whether a party should file the documents in IFAMS before the trial or otherwise.
+(5) Under rule 929F(5) and rule 929F(6) of the Family Justice Rules 2014, a party must file, before the commencement of the trial, an electronic reproduction of the document in IFAMS unless the Court allows the document to be tendered during the trial. For the purposes of these rules, the Mentions Court will determine whether a party should file the documents in IFAMS before the trial or otherwise.
 
 ## 26F. Documents which cannot be converted into electronic format <a href="#id-26f-documents-which-cannot-be-converted-into-electronic-format" id="id-26f-documents-which-cannot-be-converted-into-electronic-format"></a>
 
@@ -116,15 +116,15 @@ Where a document is required to be amended, a fresh copy of the document must be
 
 ## 26I. Bundles of Authorities <a href="#id-26i-bundles-of-authorities" id="id-26i-bundles-of-authorities"></a>
 
-(1) In all proceedings under this part, any party to the proceedings or his counsel shall submit their own bundle of authorities. In this regard, the following shall be complied with:
+(1) In all proceedings under this Part, any party to the proceedings or his counsel must submit their own bundle of authorities. In this regard, the following must be complied with:
 
-> (a) The bundle of authorities to be prepared by each party should:
+> (a) The bundle of authorities to be prepared by each party must:
 >
 > > (i) contain all the authorities, cases, statutes, subsidiary legislation and any other materials relied on;
 > >
 > > (ii) be properly bound with plastic ring binding or plastic spine thermal binding in accordance with the requirements set out in Paragraph 90(8)(c) of these Practice Directions;
 > >
-> > (iii) be paginated consecutively at the top right hand corner of each page (for which purpose the pagination should commence on the first page of the first bundle and run sequentially to the last page of the last bundle); and
+> > (iii) have all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the bundle of authorities, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively; and
 > >
 > > (iv) contain an index of the authorities in that bundle and be appropriately flagged for easy reference.
 >

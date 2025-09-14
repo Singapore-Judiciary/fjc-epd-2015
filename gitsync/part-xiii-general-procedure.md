@@ -71,7 +71,7 @@
 >
 > 90\. Documents for use in trials
 >
-> * Time for filing of documents under rule 567(1) of the Family Justice Rules
+> * Time for filing of documents under rule 567(1) of the Family Justice Rules 2014
 > * Mode of filing documents
 > * Bundle of documents
 > * Core bundle of documents
@@ -199,11 +199,11 @@
 >
 > 125\. Filing of records of appeal and written cases
 >
-> * Filing of records of appeal and written cases for appeals filed to the Family Division of the High Court under Part 18 Division 60 of the Family Justice Rules
-> * Filing of records of appeal and written cases for appeals to the Family Division of the High Court under Part 18 Division 59 of the Family Justice Rules
-> * Filing of written submissions for appeals against registrars in the Family Division of the High Court under Part 18 Division 58 of the Family Justice Rules
+> * Filing of records of appeal and written cases for appeals filed to the Family Division of the High Court under Part 18 Division 60 of the Family Justice Rules 2014
+> * Filing of records of appeal and written cases for appeals to the Family Division of the High Court under Part 18 Division 59 of the Family Justice Rules 2014
+> * Filing of written submissions for appeals against registrars in the Family Division of the High Court under Part 18 Division 58 of the Family Justice Rules 2014
 >
-> 126\. Appeals before the Family Division of the High Court from tribunal or person under Part 18 Division 55 of the Family Justice Rules
+> 126\. Appeals before the Family Division of the High Court from tribunal or person under Part 18 Division 55 of the Family Justice Rules 2014
 >
 > 127\. \[deleted]
 >
@@ -884,7 +884,7 @@ _**Time for filing of documents**_
 
 (2) In the event that it is not possible to file the documents in advance of the hearing, counsel may apply to the Judge or Registrar conducting the hearing for leave to:
 
-> (a) use hard copy documents during the hearing. Without limiting paragraph 90(12) of these Practice Directions, the hard copy documents may be printed on one side or both sides of each page; or
+> (a) use hard copy documents during the hearing (in which case, without limiting paragraph 90(12) of these Practice Directions, parties are strongly encouraged to print on both sides of each piece of paper where hard copies are tendered); or
 >
 > (b) display a soft copy of the document by sharing his or her screen during the hearing (if the hearing is conducted by video-conferencing).
 
@@ -906,7 +906,7 @@ _**General requirements as regards documents filed for use in Court**_
 
 (4) If the filing of a document is to be done by submitting only a hard copy of the same to the Registry in accordance with these Practice Directions or the Court’s direction:
 
-> (a) Any fees payable pursuant to the Fifth Schedule to the Family Justice Rules must be paid over the counter or by any alternative mode of payment specified by the Registry at the same time as when the hard copy document is submitted to the Registry.
+> (a) Any fees payable pursuant to the Fifth Schedule to the Family Justice Rules 2014 must be paid over the counter or by any alternative mode of payment specified by the Registry at the same time as when the hard copy document is submitted to the Registry.
 >
 > (b) Parties should, when making payment over the counter, indicate to the cashier the precise number of pages which comprise the documents.
 >
@@ -914,9 +914,31 @@ _**General requirements as regards documents filed for use in Court**_
 >
 > (d) To avoid doubt, this sub-paragraph does not apply where:
 >
-> > (i) a document is filed, and the fees payable pursuant to the Fifth Schedule to the Family Justice Rules are paid, through the Electronic Filing System; and
+> > (i) a document is filed, and the fees payable pursuant to the Fifth Schedule to the Family Justice Rules 2014 are paid, through the Electronic Filing Service; and
 > >
 > > (ii) the party chooses to tender hard copy of the document to the Registry.
+
+(4A) Pleadings, the texts of affidavits (as opposed to the exhibits), opening statements and written submissions filed in or submitted to the Family Justice Courts must comply with the following requirements:
+
+> (a) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively;
+>
+> (b) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size used must be Times New Roman 12 or its equivalent;
+>
+> (c) the print of every page must be double-spaced, except for the following, which may be single-spaced:
+>
+> > (i) cover pages and tables of contents;
+> >
+> > (ii) paragraph and section headings or sub-headings;
+> >
+> > (iii) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> >
+> > (iv) extracts of transcripts;
+>
+> (d) every page must have a margin on all 4 sides, each of at least 35mm in width; and
+>
+> (e) parties are strongly encouraged to print on both sides of each piece of paper where hard copies are tendered.
+
+(4B) Sub-paragraph (4A) does not apply to any documents for which specific directions on formatting are provided for in these Practice Directions.
 
 _**Bundle of authorities**_
 
@@ -924,7 +946,7 @@ _**Bundle of authorities**_
 
 (6) Bundles of authorities may be filed, served, delivered or otherwise conveyed using the Electronic Filing Service. A party may also choose not to file the bundle of authorities into the electronic case file and instead submit a hard copy of the bundle of authorities for hearings according to the directions in this Part.
 
-(7) The party using the hard copy of the bundle of authorities must produce the bundle at every hearing at which it is required. The hard copy of the bundle of authorities may be printed on one side or both sides of each page. The Court will neither retain nor undertake to produce for hearings the hard copy of the bundle. The Judge or Registrar may, if he or she so chooses, retain the hard copy of the bundle of authorities for his or her own reference. The hard copy so retained will not, however, form part of the Court’s record in respect of the proceedings in which it was used.
+(7) The party using the hard copy of the bundle of authorities must produce the bundle at every hearing at which it is required. Parties are strongly encouraged to print on both sides of each piece of paper where hard copies are tendered. The Court will neither retain nor undertake to produce for hearings the hard copy of the bundle. The Judge or Registrar may, if he or she so chooses, retain the hard copy of the bundle of authorities for his or her own reference. The hard copy so retained will not, however, form part of the Court’s record in respect of the proceedings in which it was used.
 
 (8) Counsel must adhere to the following directions when preparing bundles of authorities for use in Court. These requirements also apply to paragraphs 90 to 92, 99, 125 and 126 of these Practice Directions:
 
@@ -950,7 +972,7 @@ _**Bundle of authorities**_
 >
 > (g) The bundle of authorities must have flags to mark out the authorities. Such flags must bear the appropriate indicium by which the authority is referred to. Flags must be spaced out evenly along the right side of the bundle so that as far as possible they do not overlap one another.
 >
-> (h) The bundle of authorities must be paginated consecutively at the top right hand corner of each page. Each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
+> (h) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
 >
 > (i) The bundle of authorities must be legible. Clear copies of the authorities must be made available for inspection by the other parties or the Judge if the copies exhibited in the bundle of authorities are not legible.
 
@@ -964,7 +986,7 @@ _**Bundle of authorities**_
 >
 > (b) The name given to each bookmark should be the same as the corresponding authority in the table of contents.
 >
-> (c) The page number of each printed volume of the bundle must correspond to the page number in the Portable Document Format (PDF) version of that volume of the bundle. Each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
+> (c) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated in the manner provided for in sub-paragraph (8)(h).
 
 ## 89. \[deleted] <a href="#id-89-deleted" id="id-89-deleted"></a>
 
@@ -984,9 +1006,9 @@ _**Bundle of authorities**_
 >
 > (b) an opening statement.
 
-_**Time for filing of documents under rule 567(1) of the Family Justice Rules**_
+_**Time for filing of documents under rule 567(1) of the Family Justice Rules 2014**_
 
-(3) Parties are to note that the timeline given pursuant to the Court’s directions under rule 567(1) of the Family Justice Rules is to be adhered to strictly, and that the timeline will apply to the filing of the documents into the electronic case file and, if applicable, the submission of the CD-ROM or DVD-ROM (containing the documents in Portable Document Format (PDF)) to the Registry.
+(3) Parties are to note that the timeline given pursuant to the Court’s directions under rule 567(1) of the Family Justice Rules 2014 is to be adhered to strictly, and that the timeline will apply to the filing of the documents into the electronic case file and, if applicable, the submission of the CD-ROM or DVD-ROM (containing the documents in Portable Document Format (PDF)) to the Registry.
 
 (4) At the trial of the cause or matter, an adjournment may be ordered if:
 
@@ -1000,7 +1022,7 @@ _**Mode of filing documents**_
 
 (6) The opening statement, the affidavits of the evidence-in-chief of all witnesses or other affidavits, and the bundle of documents must be filed in Court as separate documents using the Electronic Filing Service, and, if required, each of the opening statement, the affidavits of the evidence-in-chief of all witnesses or other affidavits, and the bundle of documents in Portable Document Format (PDF) stored on optical media (CD-ROM or DVD-ROM) may be tendered to the Registry. The documents must comply with the provisions of this paragraph.
 
-(7) Additionally, unless otherwise directed, the parties must tender the documents referred to at sub-paragraph (6) above to the Registry in hard copy. The hard copy must tally in all respects with the soft copy (if tendered in optical media), and the page numbers of the hard copy must correspond to the page numbers in the Portable Document Format (PDF) version. Parties should adhere as far as possible to the guidelines set out on the eLitigation website at [http://www.elitigation.sg](http://www.elitigation.sg/) on the resolution to be used when scanning documents into PDF.
+(7) Additionally, unless otherwise directed, the parties must tender the documents referred to at sub-paragraph (6) above to the Registry in hard copy. The hard copy must tally in all respects with the soft copy (if tendered in optical media), and all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is tendered in optical media, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively. Parties should adhere as far as possible to the guidelines set out on the eLitigation website at [http://www.elitigation.sg](http://www.elitigation.sg/) on the resolution to be used when scanning documents into PDF.
 
 _**Bundle of documents**_
 
@@ -1014,7 +1036,7 @@ _**Bundle of documents**_
 >
 > (c) It is the responsibility of the solicitors for all parties to agree and prepare a bundle of agreed documents. The scope to which the agreement extends must be stated in the index sheet of the bundle of agreed documents. If the parties are unable to agree on the inclusion of certain documents, those documents on which agreement cannot be reached must be prepared by the party that intends to rely on or refer to those documents. It is the responsibility of the solicitors for the party filing the bundle of documents to separate the documents into sections for documents of which authenticity is not in dispute and documents of which authenticity is in dispute and to indicate in the index sheet the documents of which authenticity is in dispute and by whom. Apart from the above, the various PDF documents should be arranged chronologically or in some logical order.
 >
-> (d) The page number of each bundle of documents must correspond to the page number in the Portable Document Format (PDF) version of that bundle. Each separate bundle of documents shall start at page 1 and every page shall be numbered consecutively.
+> (d) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated in the manner provided for in sub-paragraph (7).
 
 (10) For proceedings using the Electronic Filing Service, a bundle of documents may be created online and filed through the Electronic Filing Service. The electronic bundle shall be created in Portable Document Format (PDF). The electronic bundle may contain:
 
@@ -1024,11 +1046,11 @@ _**Bundle of documents**_
 
 (11) The directions in sub-paragraph (12) below apply to hard copies tendered to the Registry or the Court.
 
-(12) The documents in the bundles should —
+(12) The documents in the bundles must —
 
 > (a) contain an index of contents of each bundle in the manner and form set out in Form 205 in Appendix A to these Practice Directions.
 >
-> (b) be paginated consecutively throughout at the top right hand corner and may be printed on one side or both sides of each page.
+> (b) be paginated in the manner provided for in sub-paragraph (7), and parties are strongly encouraged to print on both sides of each piece of paper where hard copies are tendered.
 >
 > (c) Where the bundle of documents consists of more than 1 volume:
 >
@@ -1088,15 +1110,23 @@ _**Opening statements**_
 >
 > (f) In cases where the Court is of the opinion that costs or hearing days have been wasted by a poorly drafted opening statement, the Court will have no hesitation in making a special order for costs against the relevant person.
 >
-> (g) The following format shall be adhered to when preparing opening statements:
+> (g) The following format must be adhered to when preparing opening statements:
 >
-> > (i) all pages shall be paginated, with the first page (including the cover page) numbered as ‘Page 1’ so that the page numbers of the hard copy correspond to the page numbers in the Portable Document Format (PDF) version
+> > (i) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated in the manner provided for in sub-paragraph (7);
 > >
-> > (ii) the minimum font size to be used is Times New Roman 12 or its equivalent;
+> > (ii) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size used must be Times New Roman 12 or its equivalent;
 > >
-> > (iii) the print of every page shall be double spaced;
+> > (iii) the print of every page must be double spaced, except for the following, which may be single-spaced:
 > >
-> > (iv) each page may be printed on one side or both sides; and
+> > > (A) cover pages and tables of contents;
+> > >
+> > > (B) paragraph and section headings or sub-headings;
+> > >
+> > > (C) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> > >
+> > > (D) extracts of transcripts;
+> >
+> > (iv) parties are strongly encouraged to print on both sides of each piece of paper where hard copies are tendered; and
 > >
 > > (v) every page shall have a margin on all 4 sides, each of at least 35 mm in width.
 >
@@ -1106,7 +1136,7 @@ _**Opening statements**_
 
 _**Bundle of authorities**_
 
-(16) In addition to the documents required to be filed and served under rule 567 of the Family Justice Rules, the Court may direct parties to file and serve bundles of authorities. Paragraphs 88(5) to (11) of these Practice Directions must be complied with.
+(16) In addition to the documents required to be filed and served under rule 567 of the Family Justice Rules 2014, the Court may direct parties to file and serve bundles of authorities. Paragraphs 88(5) to (11) of these Practice Directions must be complied with.
 
 (17) The bundle of authorities shall be filed and served on all relevant parties at least 5 working days before trial.
 
@@ -1120,11 +1150,11 @@ _**Bundle of authorities**_
 
 This paragraph applies only to hearings in the Family Division of the High Court save for the hearing of appeals.
 
-(1) Unless otherwise directed by the Court for any contested special date hearing before a Judge in the Family Division of the High Court, each party shall:
+(1) Unless otherwise directed by the Court for any contested special date hearing before a Judge in the Family Division of the High Court, each party must:
 
 > (a) submit to the Court and serve on the other party a hard copy of the following documents at least 1 clear day in advance of the hearing:
 >
-> > (i) written submissions (with a cover page and a table of contents); and
+> > (i) written submissions (with a cover page and a table of contents in compliance with the requirements under paragraph 88(4A) of these Practice Directions); and
 > >
 > > (ii) bundle of authorities (which are in compliance with the requirements under paragraphs 88(5) to (11) of these Practice Directions); and
 >
@@ -1650,11 +1680,19 @@ _**Release of witness upon completion of evidence**_
 
 _**Affidavits filed electronically**_
 
-(1) This sub-paragraph shall apply to affidavits which are to be filed through the Electronic Filing Service.
+(1) This sub-paragraph applies to affidavits which are to be filed through the Electronic Filing Service.
 
 > (a) When filing affidavits for use during a hearing of an interlocutory application, the summons number of the interlocutory application must be provided in the Electronic Filing Service in addition to the case number of the suit or matter.
 >
-> (b) Affidavits shall have a blank margin of not less than 35mm wide on all 4 sides of the page. They shall be printed or typed and must be double-spaced.
+> (b) Every page must have a margin on all 4 sides, each of at least 35mm in width. The text of affidavits (as opposed to the exhibits) must be printed or typed, and the print of every page of the text of affidavits (as opposed to the exhibits) must be double-spaced, except for the following, which may be single-spaced:
+>
+> > (i) cover pages and tables of contents;
+> >
+> > (ii) paragraph and section headings or sub-headings;
+> >
+> > (iii) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> >
+> > (iv) extracts of transcripts.
 >
 > (c) The textual portion of the affidavits, as opposed to the exhibits, must be white.
 >
@@ -1674,9 +1712,9 @@ _**Affidavits filed electronically**_
 > >
 > > the document name that is selected in the Electronic Filing Service for an affidavit for ancillary matters hearing shall be “Affidavit for Ancillary Matters Hearing”.
 >
-> (e) Every page of the affidavit ( including separators and exhibits) shall be paginated consecutively, and the page number shall be placed at the top right hand corner of the page. Every reference to an exhibit (or a document in an exhibit) shall include, where appropriate, the page number(s) where the exhibit (or document) can be located.
+> (e) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the affidavit that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively. Every reference to an exhibit (or a document in an exhibit) shall include, where appropriate, the page number(s) where the exhibit (or document) can be located.
 >
-> (f) Sub-paragraph 1(d)(v) is applicable to proceedings under Part X of the Women’s Charter (Cap. 353) filed before 1 April 2006 as if any reference to the defendant were a reference to the respondent.
+> (f) Except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size used must be Times New Roman 12 or its equivalent.
 
 _**Affidavits that are not filed electronically**_
 
@@ -1684,13 +1722,23 @@ _**Affidavits that are not filed electronically**_
 
 > (a) **Form of affidavits generally**
 >
-> > (i) Affidavits shall be on A4-ISO paper of durable quality with a blank margin not less than 35 mm wide on all 4 sides of the page.
+> > (i) Affidavits must be on A4-ISO paper of durable quality with a margin on all 4 sides each of at least 35mm in width.
 > >
 > > (ii) The paper used shall be white.
 > >
 > > (iii) Affidavits shall be produced by printing, lithography or typewriting, and in any case not by carbon copying. A document produced by a photographic or similar process giving a positive and permanent representation free from blemishes will be treated, to the extent that it contains a facsimile of matter produced by one of the above processes, as if it were so produced. Photographic copies which are not clearly legible will be rejected.
 > >
-> > (iv) Affidavits shall be printed or typed, double-spaced, on one side or both sides of the paper.\
+> > (iv) The text of affidavits (as opposed to the exhibits) must be printed or typed on white paper, and the print of every page of the text of affidavits (as opposed to the exhibits) must be double-spaced, except for the following, which may be single-spaced:
+> >
+> > > (A) cover pages and tables of contents;
+> > >
+> > > (B) paragraph and section headings or sub-headings;
+> > >
+> > > (C) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> > >
+> > > (D) extracts of transcripts.
+> >
+> > \
 > >
 >
 > (b) **Markings on affidavits**
@@ -1713,17 +1761,24 @@ _**Affidavits that are not filed electronically**_
 >
 > (c) **Binding of affidavits**
 >
-> Affidavits of 30 pages or less (including exhibits and dividing and backing sheets) may be stapled at the top left hand corner of the paper firmly. Any affidavit (including exhibits, dividing and backing sheets) exceeding 30 pages shall be bound with plastic ring binding or plastic spine thermal binding (the plastic rings or spines to be red for plaintiffs/appellants, and blue for defendants/respondents) with a transparent plastic cover in front and at the back.\
-> \
+> Affidavits of 30 pages or less (including exhibits and dividing and backing sheets) may be stapled at the top left hand corner of the paper firmly. Any affidavit (including exhibits, dividing and backing sheets) exceeding 30 pages shall be bound with plastic ring binding or plastic spine thermal binding (the plastic rings or spines to be red for plaintiffs/appellants, and blue for defendants/respondents) with a transparent plastic cover in front and at the back.
+>
+>
+>
 > (d) **Pagination of affidavits**
 >
-> Every page of the affidavit shall be paginated consecutively, and the page number shall be placed at the top right hand corner of the page. Every reference to an exhibit (or a document in an exhibit) shall include, where appropriate, the page number(s) where the exhibit (or document) can be located.\
+> All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively. Every reference to an exhibit (or a document in an exhibit) shall include, where appropriate, the page number(s) where the exhibit (or document) can be located.\
+>
+>
+> (da) **Font size used in affidavits**
+>
+> Except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size used must be Times New Roman 12 or its equivalent.\
 > \
-> (e) Sub-paragraph 2(b) is applicable to proceedings under Part X of the Women’s Charter (Cap. 353) filed before 1 April 2006 as if any reference to the defendant were a reference to the respondent.
+> (e) \[deleted]
 
 _**Hard copy affidavits**_
 
-(3) Unless otherwise directed by the Court, hard copies of affidavits should be printed on both sides of each page.
+(3) Unless otherwise directed by the Court, parties are strongly encouraged to print on both sides of each piece of paper where hard copies of affidavits are tendered.
 
 ## 110. Exhibits to affidavits <a href="#id-110-exhibits-to-affidavits" id="id-110-exhibits-to-affidavits"></a>
 
@@ -1739,11 +1794,11 @@ _**Non-documentary exhibits**_
 
 _**Exhibits to affidavits filed electronically**_
 
-(5) The directions in this sub-paragraph shall apply to exhibits to affidavits that are filed through the Electronic Filing Service:
+(5) The directions in this sub-paragraph apply to exhibits to affidavits that are filed through the Electronic Filing Service:
 
 > (a) Every page of every exhibit must be fully and clearly legible. Where necessary, magnified copies of the relevant pages should be inserted in appropriate places.
 >
-> (b) Every page of the exhibits, _including dividing sheets or separators between exhibits_ , shall be consecutively numbered at the top right hand corner of each page, taking as its first number the number that follows the number of the last sheet of the affidavit.
+> (b) All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
 >
 > (c) Each exhibit in the affidavit must be separately book-marked in the Portable Document Format document that is filed. For this purpose —
 >
@@ -1751,7 +1806,7 @@ _**Exhibits to affidavits filed electronically**_
 > >
 > > (ii) where a deponent deposes to more than one affidavit to which there are exhibits in any one action, cause or proceedings, the numbering of the exhibits in all subsequent affidavits shall run consecutively throughout, and not begin again with each affidavit.
 >
-> (d) Related documents (e.g., correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in accordance with sub- paragraph (5)(b) above, and the exhibit must have a front page showing the table of contents of the items in the exhibit.
+> (d) Related documents (e.g., correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in the manner provided for in sub-paragraph (5)(b) above, and the exhibit must have a front page showing the table of contents of the items in the exhibit.
 
 _**Exhibits to affidavits that are not filed electronically**_
 
@@ -1787,7 +1842,7 @@ _**Exhibits to affidavits that are not filed electronically**_
 >
 > (d) **Pagination**
 >
-> Every page of the exhibits (but not the dividing sheets mentioned in sub- paragraph (6)(b) above) shall be consecutively numbered at the top right hand corner of each page, taking as its first number the number that follows the number of the last sheet of the affidavit.\
+> All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.\
 > \
 > (e) **Numbering**
 >
@@ -1801,7 +1856,7 @@ _**Exhibits to affidavits that are not filed electronically**_
 > \
 > (g) **Related documents**
 >
-> Related documents (e.g., correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in accordance with sub- paragraph (6)(d) above, and the exhibit must have a front page showing the table of contents of the items in the exhibit.
+> Related documents (e.g., correspondence and invoices) may be collected together and collectively exhibited as one exhibit arranged in chronological order, beginning with the earliest at the top, paginated in the manner provided for in sub-paragraph (6)(d) above, and the exhibit must have a front page showing the table of contents of the items in the exhibit.
 
 ## 111. Swearing or affirming of affidavits, statutory declarations and oaths <a href="#id-111-swearing-or-affirming-of-affidavits-statutory-declarations-and-oaths" id="id-111-swearing-or-affirming-of-affidavits-statutory-declarations-and-oaths"></a>
 
@@ -2073,9 +2128,9 @@ An applicant seeking to lift a suspension order under rule 763(3) of the Family 
 
 ## 125. Filing of records of appeal and written cases <a href="#id-125-filing-of-records-of-appeal-and-written-cases" id="id-125-filing-of-records-of-appeal-and-written-cases"></a>
 
-_**Filing of records of appeal and written cases for appeals filed to the Family Division of the High Court under Part 18 Division 60 of the Family Justice Rules**_
+_**Filing of records of appeal and written cases for appeals filed to the Family Division of the High Court under Part 18 Division 60 of the Family Justice Rules 2014**_
 
-(1) In practice, the District Judges may furnish grounds of decision, and if so, within 8 weeks of the filing of the notice of appeal although the furnishing of grounds of decision is not a requirement under the Part 18 Division 60 of the Family Justice Rules.
+(1) In practice, the District Judges may furnish grounds of decision, and if so, within 8 weeks of the filing of the notice of appeal although the furnishing of grounds of decision is not a requirement under the Part 18 Division 60 of the Family Justice Rules 2014.
 
 (2) To facilitate the conduct of appeal hearings before the Judge of the Family Division of the High Court in Chambers, parties are required to file the following documents prior to the appeal hearing:
 
@@ -2125,17 +2180,17 @@ _**Filing of records of appeal and written cases for appeals filed to the Family
 
 (9) The submissions, the record of appeal, the core bundle and the respondent’s core bundle shall be filed at the appeals counter of the Registry of the Family Justice Courts.
 
-(10) In order to assist the Judge hearing the appeal, the appellant and the respondent are to tender one hard copy of the record of appeal, submissions and the core bundle, where applicable, as well as any bundle of authorities to be relied upon to the Correspondence Clearance Centre at Level 1, Supreme Court Building not less than 10 days before the hearing of the appeal, unless otherwise directed.
+(10) In order to assist the Judge hearing the appeal, the appellant and the respondent are to tender one hard copy of the record of appeal, submissions and the core bundle, where applicable, as well as any bundle of authorities to be relied upon to the Correspondence Clearance Centre at Level 1, Supreme Court Building not less than 10 days before the hearing of the appeal, unless otherwise directed. Parties are strongly encouraged to print on both sides of each piece of paper where hard copies are tendered.
 
-_**Filing of records of appeal and written cases for appeals to the Family Division of the High Court under Part 18 Division 59 of the Family Justice Rules**_
+_**Filing of records of appeal and written cases for appeals to the Family Division of the High Court under Part 18 Division 59 of the Family Justice Rules 2014**_
 
-(11) Rules 827 and 828 of the Family Justice Rules apply with regard to the filing and preparation of the record of appeal, appellant’s Case and respondent’s Case. In addition to the requirements set out in the relevant rules, the appellant’s Case and the respondent’s Case must each include a cover page and a table of contents.
+(11) Rules 827 and 828 of the Family Justice Rules 2014 apply with regard to the filing and preparation of the record of appeal, appellant’s Case and respondent’s Case. In addition to the requirements set out in the relevant rules, the appellant’s Case and the respondent’s Case must each include a cover page and a table of contents.
 
 (12) Where a record of appeal exceeds 1000 pages, a core bundle may be filed may be filed and served together with the record of appeal.
 
-(13) Each volume of the appellant’s and respondent’s core bundles of documents and subsequent bundles (if any), must begin at page 1. Every page must be numbered and the page number of the appellant’s and respondent’s core bundles of documents and the second core bundle must correspond to the page number of the Portable Document Format (PDF) version.
+(13) Each volume of the appellant’s and respondent’s core bundles of documents and subsequent bundles (if any), must start at page 1. Every page in that volume must be numbered consecutively, and all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of that volume.
 
-(14) Sub-paragraphs (6) to (10) above shall apply and references to submissions shall be read as appellant’s Case and respondent’s Case.
+(14) Sub-paragraphs (6) to (10) above apply and references to submissions shall be read as appellant’s Case and respondent’s Case.
 
 (15) The party must, in lieu of the bundle of authorities, file a list of authorities (that corresponds to the table of contents of the hard copy of the bundle of authorities) into the case file using the Electronic Filing Service within the timelines as directed by the Court. The bundle of authorities (whether in hard copy of soft copy) must comply with the requirements under paragraphs 88(5) to (11) of these Practice Directions. In particular, where the bundle of authorities consists of more than 1 volume:
 
@@ -2145,7 +2200,7 @@ _**Filing of records of appeal and written cases for appeals to the Family Divis
 
 (16) The appellant must tender 1 hard copy each of the following documents to the Correspondence Clearance Centre at Level 1, Supreme Court Building:
 
-> (a) the record of appeal and the appellant’s Case within the timelines prescribed in rule 827 of the Family Justice Rules;
+> (a) the record of appeal and the appellant’s Case within the timelines prescribed in rule 827 of the Family Justice Rules 2014;
 >
 > (b) the appellant’s core bundle of documents, if necessary; and
 >
@@ -2155,7 +2210,7 @@ within the timelines as directed by the Court.
 
 (17) The respondent must tender 1 hard copy each of the following documents to the Correspondence Clearance Centre at Level 1, Supreme Court Building:
 
-> (a) the respondent’s Case within the timelines prescribed in rule 828 of the Family Justice Rules;
+> (a) the respondent’s Case within the timelines prescribed in rule 828 of the Family Justice Rules 2014;
 >
 > (b) the respondent’s core bundle of documents, if necessary; and
 >
@@ -2163,7 +2218,9 @@ within the timelines as directed by the Court.
 
 within the timelines as directed by the Court.
 
-_**Filing of written submissions for appeals against registrars in the Family Division of the High Court under Part 18 Division 58 of the Family Justice Rules**_
+(17A) Where hard copy documents are required to be tendered as stated in sub-paragraphs (16) and (17), parties are strongly encouraged to print on both sides of each piece of paper.
+
+_**Filing of written submissions for appeals against registrars in the Family Division of the High Court under Part 18 Division 58 of the Family Justice Rules 2014**_
 
 (18) The appellant shall, within 7 working days from the date of the filing of the Notice of Appeal, file and serve his submissions. The respondent shall, within 7 working days from the service of the appellant’s submissions, file and serve his submissions. The written submission filed by parties must include a cover page and a table of contents.
 
@@ -2173,15 +2230,15 @@ _**Filing of written submissions for appeals against registrars in the Family Di
 >
 > (b) each volume must have a table of contents indicating the authorities that are contained in that volume.
 
-(20) The appellant and the respondent are to tender 1 hard copy each of his or her written submissions and bundle of authorities (if any) to the Correspondence Clearance Centre at Level 1, Supreme Court Building not less than 10 days before the hearing of the appeal, unless otherwise directed.
+(20) The appellant and the respondent are to tender 1 hard copy each of his or her written submissions and bundle of authorities (if any) to the Correspondence Clearance Centre at Level 1, Supreme Court Building not less than 10 days before the hearing of the appeal, unless otherwise directed. Parties are strongly encouraged to print on both sides of each piece of paper.
 
-## 126. Appeals before the Family Division of the High Court from tribunal or person under Part 18 Division 55 of the Family Justice Rules <a href="#id-126-appeals-before-the-family-division-of-the-high-court-from-tribunal-or-person-under-part-18-divis" id="id-126-appeals-before-the-family-division-of-the-high-court-from-tribunal-or-person-under-part-18-divis"></a>
+## 126. Appeals before the Family Division of the High Court from tribunal or person under Part 18 Division 55 of the Family Justice Rules 2014 <a href="#id-126-appeals-before-the-family-division-of-the-high-court-from-tribunal-or-person-under-part-18-divis" id="id-126-appeals-before-the-family-division-of-the-high-court-from-tribunal-or-person-under-part-18-divis"></a>
 
-(1) Rule 805(4) of the Family Justice Rules states that it is the appellant’s duty to apply to the Judge or other person presiding at the proceedings in which the decision appealed against was given, for the signed copy of any note made by him of the proceedings and to furnish that copy for the use of the Court. For the avoidance of doubt, the onus is on the appellant to file a record of proceedings, comprising the signed copy of the notes of proceedings, and any further grounds of decision, in the Family Division of the High Court.
+(1) Rule 805(4) of the Family Justice Rules 2014 states that it is the appellant's duty to apply to the Judge or other person presiding at the proceedings in which the decision appealed against was given, for the signed copy of any note made by him of the proceedings and to furnish that copy for the use of the Court. For the avoidance of doubt, the onus is on the appellant to file a record of proceedings, comprising the signed copy of the notes of proceedings, and any further grounds of decision, in the Family Division of the High Court.
 
 (2) If the signed copy of the notes of proceedings or any further grounds of decision are not available at the time when the record of proceedings is filed but subsequently becomes available, the appellant should seek directions from the Court to file a supplemental record of proceedings when it becomes available, if it is necessary for the appeal. To facilitate this, the appellant should promptly apply for any written grounds of decision, the record of evidence or notes of arguments taken in respect of the proceedings before the tribunal.
 
-(3) Unless otherwise ordered by the Court, each party is to tender 1 hard copy each of his or her affidavits (if any as allowed by the Court), written submissions (including a cover page and a table of contents), bundles of authorities (if any), notes of proceedings and grounds of decision to the Correspondence Clearance Centre at Level 1, Supreme Court Building not less than 10 days before the hearing of the appeal, unless otherwise directed.
+(3) Unless otherwise ordered by the Court, each party is to tender 1 hard copy each of his or her affidavits (if any as allowed by the Court), written submissions (including a cover page and a table of contents), bundles of authorities (if any), notes of proceedings and grounds of decision to the Correspondence Clearance Centre at Level 1, Supreme Court Building not less than 10 days before the hearing of the appeal, unless otherwise directed. Parties are strongly encouraged to print on both sides of each piece of paper.
 
 (4) The party using hard copy of the bundle of authorities for the hearing must, if directed by the Court, file the list of authorities (that corresponds to the table of contents of the hard copy of the bundle of authorities) into the case file using the Electronic Filing Service within the timelines as directed by the Court. The bundle of authorities (whether in hard copy or soft copy) must comply with the requirements under paragraphs 88(5) to (11) of these Practice Directions. In particular, where the bundle of authorities consists of more than 1 volume:
 
@@ -2225,21 +2282,21 @@ Every bill of costs to be taxed pursuant to a judgment or order of court must be
 
 ## 131. Form of bills of costs <a href="#id-131-form-of-bills-of-costs" id="id-131-form-of-bills-of-costs"></a>
 
-The attention of solicitors is drawn to rules 875 and 882 and Part 1 of the Third Schedule of the Family Justice Rules. In addition, solicitors are to abide by the following requirements in relation to the form of bills of costs.
+The attention of solicitors is drawn to rules 875 and 882 and Part 1 of the Third Schedule of the Family Justice Rules 2014. In addition, solicitors must abide by the following requirements in relation to the form of bills of costs.
 
 (1) Margins
 
-A blank margin of not less than 10 mm wide must be provided on all four sides for each page of the bill of costs.
+Every page must have a margin on all 4 sides, each of at least 10 mm in width.
 
 (2) Pagination
 
-Every page of a bill of costs must be paginated consecutively at the centre of the top of the page. The attention of solicitors is drawn to Paragraph 146 of these Practice Directions in regard to pagination of documents filed using the electronic filing service.
+All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively.
 
 (3) Format
 
 > (a) Party-and-party bills
 >
-> > (i) A bill of costs drawn up for taxation between one party to proceedings and another should be divided into three separate sections as required by rule 875 of the Family Justice Rules.
+> > (i) A bill of costs drawn up for taxation between one party to proceedings and another should be divided into three separate sections as required by rule 875 of the Family Justice Rules 2014.
 > >
 > > (ii) Form 252 in Appendix A to these Practice Directions should be used for contentious business in respect of work done for a trial or in contemplation of a trial.
 > >
@@ -2263,7 +2320,7 @@ Every page of a bill of costs must be paginated consecutively at the centre of t
 
 (4) **Particulars**
 
-> (a) Sufficient particulars must be included in the bill of costs so as to enable the Registrar to exercise his discretion under paragraph 1(2) in Part 1 of the Third Schedule of the Family Justice Rules.
+> (a) Sufficient particulars must be included in the bill of costs so as to enable the Registrar to exercise his discretion under paragraph 1(2) in Part 1 of the Third Schedule of the Family Justice Rules 2014.
 >
 > (b) Without prejudice to sub-paragraph (3), the Registrar may, at the taxation hearing, order the claiming or receiving party to furnish full details in support of the sums claimed under the bill.
 >
@@ -2294,15 +2351,15 @@ A party claiming goods and services tax (hereinafter referred to as “GST”) i
 > \
 > (b) **Input tax allowable**
 >
-> The proportion of input tax for which the receiving parties, or one or more of them, are not entitled to credit should be stated, as a percentage, in parentheses after the GST registration number of the party or parties concerned. For a person who is not liable to be registered within the meaning of the First Schedule to the Goods and Services Tax Act (Cap. 117A), this proportion should be 100%.\
+> The proportion of input tax for which the receiving parties, or one or more of them, are not entitled to credit should be stated, as a percentage, in parentheses after the GST registration number of the party or parties concerned. For a person who is not liable to be registered within the meaning of the First Schedule to the Goods and Services Tax Act 1993, this proportion should be 100%.\
 > \
 > (c) **Apportionment**
 >
-> > (i) The first section of the bill of costs should set out the work done in the cause or matter except for taxation of costs. The amount of costs claimed for work done should be divided into as many parts corresponding with the different rates of GST applicable pursuant to section 16 of the Goods and Services Tax Act, its predecessor and any subsequent amendments thereto. Each part should state the global sum of costs claimed and the applicable GST rate for the relevant period.
+> > (i) The first section of the bill of costs should set out the work done in the cause or matter except for taxation of costs. The amount of costs claimed for work done should be divided into as many parts corresponding with the different rates of GST applicable pursuant to section 16 of the Goods and Services Tax Act 1993, its predecessor and any subsequent amendments thereto. Each part should state the global sum of costs claimed and the applicable GST rate for the relevant period.
 > >
 > > (ii) The second section which sets out the work done for and in the taxation of costs should describe the work done, the sum of costs claimed and the applicable GST rate.
 > >
-> > (iii) The third section, which sets out the disbursements made in the cause or matter, should first set out the disbursements on which no GST is chargeable by the solicitors for the receiving party or the receiving party as the case may be. For the disbursements on which GST is chargeable, it shall be divided into as many parts corresponding with the number of different rates of GST applicable pursuant to section 16 of the Goods and Services Tax Act, its predecessor and any subsequent amendments thereto. Each part should set out the disbursements on which GST is chargeable by the solicitors for the receiving party or the receiving party, as the case may be and the applicable GST rate. For example, for a matter which commenced in 1998 and concluded with a judgment in March 2003, with regard to disbursements on which GST is chargeable, the first part will set out the disbursements incurred on or before 1 January 2003 and the amount claimed for GST at the rate of 3%, while the second part will set out the disbursements incurred on or after 1 January 2003 and the amount claimed for GST at the rate of 4%. If a claim is made for disbursements incurred on or after 1 January 2004, the second part will set out the disbursements incurred on or after 1 January 2003 and before 1 January 2004, the amount claimed for GST at the rate of 4%, followed by a third part which shall set out the disbursements incurred on or after 1 January 2004 and the amount claimed for GST at the rate of 5% (or the applicable rate pursuant to section 16 of the Goods and Services Tax Act).
+> > (iii) The third section, which sets out the disbursements made in the cause or matter, should first set out the disbursements on which no GST is chargeable by the solicitors for the receiving party or the receiving party as the case may be. For the disbursements on which GST is chargeable, it shall be divided into as many parts corresponding with the number of different rates of GST applicable pursuant to section 16 of the Goods and Services Tax Act 1993, its predecessor and any subsequent amendments thereto. Each part should set out the disbursements on which GST is chargeable by the solicitors for the receiving party or the receiving party, as the case may be and the applicable GST rate.
 >
 > \
 > (d) **Summaries of the GST claimed for work done**
@@ -2527,7 +2584,7 @@ Pursuant to rule 917 of the Family Justice Rules, the Registrar hereby appoints 
 
 ## 146. Pagination of documents
 
-Every single page of a document _must_ be paginated so that the pagination on the actual document corresponds with the pagination of the document in the electronic case file. This is to facilitate hearings involving documents.
+All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) of a document must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively. Attention is drawn to paragraphs 109(1)(e) and 110(5)(b) in this regard. This is to facilitate hearings involving reference to both printed and soft copies of the same document.
 
 ## 147. Filing documents through service bureau <a href="#id-147-filing-documents-through-service-bureau" id="id-147-filing-documents-through-service-bureau"></a>
 
@@ -2545,7 +2602,7 @@ Every single page of a document _must_ be paginated so that the pagination on th
 
 ## 148. Filing of documents to the Family Justice Courts through a Supreme Court service bureau <a href="#id-148-filing-of-documents-to-the-family-justice-courts-through-a-supreme-court-service-bureau" id="id-148-filing-of-documents-to-the-family-justice-courts-through-a-supreme-court-service-bureau"></a>
 
-Pursuant to rule 929(4) of the Family Justice Rules, the Registrar hereby prescribes that any service bureau established or authorised to be established by the Registrar of the Supreme Court or the Registrar of the State Courts may assist in the filing, service, delivery or conveyance of documents pertaining to proceedings in the Family Justice Courts using the Electronic Filing Service in all cases and circumstances where the staff of any service bureau established or authorised to be established by the Registrar of the Supreme Court or the Registrar of the State Courts are able to provide such assistance pertaining to Family Justice Courts proceedings.
+All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) of a document must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively. Attention is drawn to paragraphs 109(1)(e) and 110(5)(b) in this regard. This is to facilitate hearings involving reference to both printed and soft copies of the same document.
 
 > (a) \[deleted]
 >

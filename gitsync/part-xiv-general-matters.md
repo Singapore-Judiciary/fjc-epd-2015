@@ -67,7 +67,7 @@
 
 (3) The Duty Registrar will only arrange for the hearing of the application before the Duty Judge if the applicant satisfies the Duty Registrar that the case meets all the criteria stipulated in sub-paragraph (1) and the application is so urgent that it cannot be heard the next working day. The Duty Registrar or Duty Judge may also give directions for the urgent hearing to take place remotely or, alternatively, with parties attending in person at any place as directed.
 
-(4) The Duty Registrar or the hearing judge may, in lieu of filing, direct the applicant to tender the application and supporting documents by email or in hard copies. In this case, the applicant is to provide a signed undertaking in accordance with Form 259 in Appendix A to these Practice Directions that all documents (including the originating process if applicable) will be filed in Court the next available working day. Where the Duty Registrar or the hearing judge directs the applicant to provide hard copies of the relevant documents, the applicant must bring three copies each of the application, the supporting affidavit and the appropriate draft orders of court (Form 260 in Appendix A to these Practice Directions) for the ex parte hearing.
+(4) The Duty Registrar or the hearing judge may, in lieu of filing, direct the applicant to tender the application and supporting documents by email or in hard copies. In this case, the applicant is to provide a signed undertaking in accordance with Form 259 in Appendix A to these Practice Directions that all documents (including the originating process if applicable) will be filed in Court the next available working day. Where the Duty Registrar or the hearing judge directs the applicant to provide hard copies of the relevant documents, the applicant must bring three copies each of the application, the supporting affidavit and the appropriate draft orders of court (Form 260 in Appendix A to these Practice Directions) for the ex parte hearing. Parties are strongly encouraged to print on both sides of each piece of paper where hard copies are provided.
 
 (5) On an ex parte application for an injunction against the permanent removal of a child from Singapore, the Court would require the applicant, to give an undertaking to compensate any party for any loss caused as a result of the application. The Court may require the undertaking as to damages to be supported by —
 
@@ -77,7 +77,7 @@
 >
 > (c) making payment to the applicant’s solicitor to be held by the solicitor as an officer of the Court pending further order.
 
-(6) An applicant for an order under section 14 of the Guardianship of Infants Act (Cap 122) must prepare the following documents in accordance with the appropriate forms in Appendix A to these Practice Directions and bring them along to the hearing:
+(6) An applicant for an order under section 14 of the Guardianship of Infants Act 1934 must prepare the following documents in accordance with the appropriate forms in Appendix A to these Practice Directions and bring them along to the hearing:
 
 > (a) the Order of Court being sought (Form 261 in Appendix A to these Practice Directions);
 >
@@ -93,7 +93,7 @@
 
 (7) The forms in Appendix A to these Practice Directions are intended to make it easier for persons served with the relevant orders to understand what the orders mean. These standard form orders should be used save to the extent that an applicant is of the view that the form should be varied and the Duty Judge hearing a particular application considers that there is a good reason for adopting a different form. Any departure from the terms of the standard forms must be justified by the applicant in his / her supporting affidavit(s).
 
-(8) If an order is granted under section 14 of the Guardianship of Infants Act (Cap 122), the applicant must do the following:
+(8) If an order is granted under section 14 of the Guardianship of Infants Act 1934, the applicant must do the following:
 
 > (a) accompany the Bailiff to the place of execution and identify the child to be seized;
 >
@@ -200,17 +200,27 @@ _**Request for urgent hearing before Duty District Judge or Assistant Registrar 
 >
 > (d) a summary of arguments.
 
-(7) The applicant’s skeletal submissions should be in the following format:
+(7) The applicant’s skeletal submissions must be in the following format:
 
-> (a) all pages should be paginated;
+> (a) all pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively;
 >
 > (b) the skeletal submissions should not exceed 10 pages (excluding the cover page and backing page);
 >
-> (c) the minimum font size to be used is Times New Roman 12 or its equivalent;
+> (c) except for content reproduced from case authorities, textbook or other commentaries, other documents filed in Court, and extracts of transcripts, which may be in Times New Roman 10 or its equivalent, the minimum font size used must be Times New Roman 12 or its equivalent;
 >
-> (d) the print of every page must be double-spaced; and
+> (d) the print of every page must be double-spaced, except for the following, which may be single-spaced:
 >
-> (e) every page must have a margin on all 4 sides, each of at least 35mm in width.
+> > (i) cover pages and tables of contents;
+> >
+> > (ii) paragraph and section headings or sub-headings;
+> >
+> > (iii) content reproduced from case authorities, textbook or other commentaries, and other documents filed in Court; and
+> >
+> > (iv) extracts of transcripts;
+>
+> (e) every page must have a margin on all 4 sides, each of at least 35mm in width; and
+>
+> (f) parties are strongly encouraged to print on both sides of each piece of paper where hard copies are tendered.
 
 _**Request for urgent hearing before Judge of the Family Division of the High Court**_
 

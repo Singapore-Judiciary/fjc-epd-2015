@@ -1,4 +1,4 @@
-# Part VI – Proceedings for the Dissolution of Marriage under Part X of Women’s Charter
+# Part VI – Proceedings for the Dissolution of Marriage under Part 10 of Women’s Charter 1961
 
 > 14\. Particulars of Statement of Claim
 >
@@ -18,7 +18,7 @@
 >
 > 19\. Uncontested Matrimonial Proceedings in open court hearings
 >
-> 20\. Documents for use in trials of contested matrimonial proceedings under Part X of the Women’s Charter (Cap 353)
+> 20\. Documents for use in trials of contested matrimonial proceedings under Part 10 of the Women’s Charter 1961
 >
 > * Bundle of documents
 > * Bundle of authorities
@@ -305,7 +305,7 @@ _**How to apply for simplified uncontested divorce proceedings**_&#x20;
 
 (5) Notwithstanding the adoption of this simplified procedure, counsel will still be expected to bring to the attention of the Court any specific matters in connection with or arising from the proceedings of which the Court should be aware. In particular, if section 123 of the Women’s Charter is applicable, the Directions set out in Paragraph 10 of these Practice Directions shall be complied with.
 
-## 20. Documents for use in trials of contested matrimonial proceedings under Part X of the Women’s Charter (Cap 353) <a href="#id-20-documents-for-use-in-trials-of-contested-matrimonial-proceedings-under-part-x-of-the-womens-chart" id="id-20-documents-for-use-in-trials-of-contested-matrimonial-proceedings-under-part-x-of-the-womens-chart"></a>
+## 20. Documents for use in trials of contested matrimonial proceedings under Part 10 of the Women’s Charter 1961 <a href="#id-20-documents-for-use-in-trials-of-contested-matrimonial-proceedings-under-part-x-of-the-womens-chart" id="id-20-documents-for-use-in-trials-of-contested-matrimonial-proceedings-under-part-x-of-the-womens-chart"></a>
 
 (1) This Paragraph shall apply to trials of contested matrimonial proceedings. For matrimonial proceedings filed before 1 April 2006, any reference in this Paragraph to the plaintiff and defendant shall be read as a reference to the petitioner and respondent respectively.
 
@@ -319,7 +319,7 @@ _**How to apply for simplified uncontested divorce proceedings**_&#x20;
 
 _**Bundle of documents**_
 
-(3) Documents to be used at trial should be consolidated into bundles paginated consecutively throughout at the top right hand corner. An index of contents of each bundle in the manner and form set out in Form 205 of Appendix A must also be furnished. No bundle of documents is necessary in cases where parties are not relying on any document at the trial.
+(3) Documents to be used at trial (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively. An index of contents of each bundle in the manner and form set out in Form 205 of Appendix A must also be furnished. No bundle of documents is necessary in cases where parties are not relying on any document at the trial.
 
 (4) It is the responsibility of solicitors for all parties to agree and prepare an agreed bundle as soon as possible. The scope to which the agreement extends must be stated in the index sheet of the agreed bundle.
 
@@ -337,7 +337,7 @@ _**Bundle of documents**_
 
 (8) Only documents which are relevant or necessary for the trial shall be included in the bundles. In cases where the Court is of the opinion that costs have been wasted by the inclusion of unnecessary documents, the Court will have no hesitation in making a special order for costs against the relevant person.
 
-(9) A core bundle should (unless clearly unnecessary) also be provided containing the most important documents upon which the case will turn or to which repeated reference will have to be made. The documents in this bundle should normally be paginated but should also be cross-referenced to copies of the documents included in the main bundles. The bundle supplied to the Court should be contained in a loose-leaf file which can easily have further documents added to it if required.
+(9) A core bundle must (unless clearly unnecessary) also be provided containing the most important documents upon which the case will turn or to which repeated reference will have to be made. All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated in the manner provided for in sub-paragraph (3). The documents in this bundle must also be cross-referenced to copies of the documents included in the main bundles. The bundle supplied to the Court should be contained in a loose-leaf file which can easily have further documents added to it if required.
 
 (10) The bundles of documents including the agreed bundle and core bundle, if applicable, shall be filed and served on all relevant parties at least 3 days before trial.
 

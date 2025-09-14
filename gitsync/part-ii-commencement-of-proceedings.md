@@ -144,15 +144,15 @@ _**Guidelines for the selection of identification numbers**_
 >
 > For a natural person, whether a Singapore citizen or permanent resident or not, who has not been issued with an identity card under the National Registration Act, but has been assigned a FIN number under the Immigration Regulations (Cap. 133, Rg 1), the identification number shall be the FIN number. The number should be preceded by the prefix “FIN No.”\
 > \
-> **(c) Natural person: birth certificate or passport number**
+> &#xNAN;**(c) Natural person: birth certificate or passport number**
 >
 > For a natural person, whether a Singapore citizen or permanent resident or not, who has not been issued with an identity card under the National Registration Act or assigned a FIN number, the identification number shall be the birth certificate or passport number. The number should be preceded by either of the following, as appropriate, “(Issuing country) BC No.” or “(Issuing country) PP No.”\
 > \
-> **(d) Natural person: other numbers**
+> &#xNAN;**(d) Natural person: other numbers**
 >
 > For a natural person who is not a Singapore citizen or permanent resident and has not been assigned a FIN number and does not have a birth certificate or passport number, the identification number shall be the number of any identification document he may possess. Both the number as well as some descriptive words which will enable the nature of the number given and the authority issuing the identification document to be ascertained, should be stated. For example: “Japanese Identification Card No.”\
 > \
-> **(e) Deceased person**
+> &#xNAN;**(e) Deceased person**
 >
 > For a deceased natural person, the identification number shall be as set out in sub-paragraph (7)(a) to (d) above. However, if such numbers are not available, the identification number shall be the death registration number under the Registration of Births and Deaths Rules (Cap. 267, R 1) or the equivalent foreign provisions, where the death is registered abroad. The number as well as the following words should be stated: “(Country or place of registration of death) Death Reg. No.”\
 >

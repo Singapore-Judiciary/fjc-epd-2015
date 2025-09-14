@@ -1,8 +1,8 @@
 ---
-description: 'LAST UPDATED: 18 July 2025'
+description: 'LAST UPDATED: 15 SEPTEMBER 2025'
 ---
 
-# Family Justice Courts Practice Directions 201
+# Family Justice Courts Practice Directions 2015
 
 
 
@@ -109,7 +109,7 @@ description: 'LAST UPDATED: 18 July 2025'
 
 13B. Confidentiality
 
-### Part VI – Proceedings for the Dissolution of Marriage under Part X of Women’s Charter
+### Part VI – Proceedings for the Dissolution of Marriage under Part 10 of Women’s Charter 1961
 
 14\. Particulars of Statement of Claim
 
@@ -129,7 +129,7 @@ description: 'LAST UPDATED: 18 July 2025'
 
 19\. Uncontested Matrimonial Proceedings in open court hearings
 
-20\. Documents for use in trials of contested matrimonial proceedings under Part X of the Women’s Charter (Cap 353)
+20\. Documents for use in trials of contested matrimonial proceedings under Part 10 of the Women’s Charter 1961
 
 * Bundle of documents
 * Bundle of authorities
@@ -158,7 +158,7 @@ description: 'LAST UPDATED: 18 July 2025'
 
 26\. Hearing of maintenance proceedings in chambers&#x20;
 
-### Part VIIA – Electronic Filing Service under Division 68A of Part 18 of the Family Justice Rules
+### Part VIIA – Electronic Filing Service under Division 68A of Part 18 of the Family Justice Rules 2014
 
 26A. Application
 
@@ -525,11 +525,11 @@ description: 'LAST UPDATED: 18 July 2025'
 
 125\. Filing of records of appeal and written cases
 
-* Filing of records of appeal and written cases for appeals filed to the Family Division of the High Court under Part 18 Division 60 of the Family Justice Rules
-* Filing of records of appeal and written cases for appeals to the Family Division of the High Court under Part 18 Division 59 of the Family Justice Rules
-* Filing of written submissions for appeals against registrars in the Family Division of the High Court under Part 18 Division 58 of the Family Justice Rules
+* Filing of records of appeal and written cases for appeals filed to the Family Division of the High Court under Part 18 Division 60 of the Family Justice Rules 2014
+* Filing of records of appeal and written cases for appeals to the Family Division of the High Court under Part 18 Division 59 of the Family Justice Rules 2014
+* Filing of written submissions for appeals against registrars in the Family Division of the High Court under Part 18 Division 58 of the Family Justice Rules 2014
 
-126\. Appeals before the Family Division of the High Court from tribunal or person under Part 18 Division 55 of the Family Justice Rules
+126\. Appeals before the Family Division of the High Court from tribunal or person under Part 18 Division 55 of the Family Justice Rules 2014
 
 127\. \[deleted]
 
