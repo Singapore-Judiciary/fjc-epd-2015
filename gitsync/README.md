@@ -397,7 +397,7 @@ description: 'LAST UPDATED: 15 SEPTEMBER 2025'
 
 90\. Documents for use in trials
 
-* Time for filing of documents under rule 567(1) of the Family Justice Rules
+* Time for filing of documents under rule 567(1) of the Family Justice Rules 2014
 * Mode of filing documents
 * Bundle of documents
 * Core bundle of documents
