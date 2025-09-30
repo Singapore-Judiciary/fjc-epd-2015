@@ -1,5 +1,5 @@
 ---
-description: 'LAST UPDATED: 15 SEPTEMBER 2025'
+description: 'LAST UPDATED: 1 OCTOBER 2025'
 ---
 
 # Family Justice Courts Practice Directions 2015
@@ -416,7 +416,7 @@ description: 'LAST UPDATED: 15 SEPTEMBER 2025'
 * The neutral citation system for local judgments
 * Ancillary provisions
 
-94\. Submissions and examinations by leading and assisting counsel
+94\. Submissions and examinations by leading and junior assisting counsel
 
 95\. Amendment of documents
 

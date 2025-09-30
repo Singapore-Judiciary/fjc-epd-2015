@@ -90,7 +90,7 @@
 > * The neutral citation system for local judgments
 > * Ancillary provisions
 >
-> 94\. Submissions and examinations by leading and assisting counsel
+> 94\. Submissions and examinations by leading and junior assisting counsel
 >
 > 95\. Amendment of documents
 >
@@ -1258,29 +1258,29 @@ _**Ancillary provisions**_
 
 (14) This paragraph applies to all hearings, whether in open court or in chambers, in the Family Justice Courts.
 
-## 94. Submissions and examination by leading and assisting counsel <a href="#id-94-submissions-and-examination-by-leading-and-assisting-counsel" id="id-94-submissions-and-examination-by-leading-and-assisting-counsel"></a>
+## 94. Submissions and examination by leading and junior assisting counsel <a href="#id-94-submissions-and-examination-by-leading-and-assisting-counsel" id="id-94-submissions-and-examination-by-leading-and-assisting-counsel"></a>
 
-(1) In the event that a party is represented by more than one counsel at a hearing, whether in Court or in chambers, the making of submissions and the questioning of witnesses may be carried out by one counsel for each party only.
+(1) In the event that a party is represented by more than one counsel at a hearing, whether in Court or in chambers, more than one counsel (including junior assisting counsel) may undertake part of the oral advocacy including the making of submissions and the questioning of witnesses.
 
-(2) If a party would like submissions on different issues be made or certain portions of the examination, cross- examination or re-examination be conducted by different counsel, an oral application should be made to Court as early as is practicable and by no later than the commencement of the trial or hearing for leave to do so. The following information should be provided to the Court for the purposes of the application:
+(1A) Lead counsel are strongly encouraged to give junior assisting counsel more opportunities for oral advocacy at a hearing. This contributes to their development as advocates and promotes renewal of the Bar. Lead counsels should apprise the client of the potential benefits of allocating certain advocacy tasks to junior assisting counsel, including reduced legal costs and increased focus by lead counsel on the main advocacy tasks, and to therefore obtain instructions to conduct the proceedings in accordance with sub-paragraph (2).
+
+(2) If a party would like submissions on different issues be made or certain portions of the examination, cross-examination or re-examination be conducted by different counsel, lead counsel should inform the Court as early as is practicable at a Case Conference or Mention, and by no later than the commencement of the trial or hearing. The following information should be provided to the Court:
 
 > (a) the issues on which each counsel will be making submissions; and/or
 >
 > (b) the witnesses to be examined, cross-examined or re-examined by each counsel, or the portions of their evidence for which each counsel will conduct the examination, cross-examination or re-examination.
 
-Nothing in this paragraph detracts from the responsibility of lead counsel to ensure that all counsel making submissions, or having conduct of any portion of the examination, cross-examination or re-examination of witnesses, are adequately supervised and able to handle the tasks assigned to them.
+(3)       If the Court has been informed of the allocation of oral advocacy tasks in accordance with sub-paragraph (2), unless otherwise directed by the Court,
 
-(3) If leave has been granted in accordance with sub-paragraph (2), counsel should ensure that each confines himself to the issues or portions of evidence in respect of which leave was granted and that there is no overlap in the issues or the examination being dealt with by different counsel for the same party. Further, counsel must not repeat, clarify or expand on any submissions or portions thereof that have been made by another counsel for the same party or examine, cross-examine or re-examine witnesses on portions of their evidence dealt with by another counsel for the same party.
-
-(4) If leave of the Court is not sought in accordance with sub-paragraph (2), only one counsel will be allowed to make submissions or conduct examination for a party throughout the hearing.
-
-(5) For hearings in chambers, lead counsel are strongly encouraged to apprise the client of the benefits of allocating certain advocacy tasks to junior assisting counsel, including the potential benefits of reduced legal costs and increased focus by lead counsel on the main advocacy tasks, and to therefore consider obtaining instructions to make an application in accordance with sub-paragraph (2). In this regard, lead counsel are encouraged to consider that giving junior assisting counsel more opportunities for oral advocacy could potentially benefit the client and, at the same time, promote renewal of the Bar.
-
-(6) For civil trials:
-
-> (a) Notwithstanding sub-paragraphs (1) and (2), and save where lead counsel is a junior counsel, the junior assisting counsel shall deliver the oral opening statement unless the Court otherwise orders; and
+> (a) counsel should ensure that each confines himself or herself to the issues or portions of evidence as allocated to him or her and that there is no overlap in the issues or the examination being dealt with by different counsel for the same party; and
 >
-> (b) lead counsel are to inform the trial judge at the Judge Pre-Trial Conference (“JPTC”), or if a JPTC has not been fixed, at the start of the trial, whether their client will be making an application pursuant to sub-paragraph (2) above and, if so, the proposed division of advocacy tasks between lead counsel and junior assisting counsel.
+> (b) counsel must not repeat, clarify or expand on any submissions or portions thereof that have been made by another counsel for the same party or examine, cross-examine or re-examine witnesses on portions of their evidence dealt with by another counsel for the same party.
+
+(4) Nothing in this paragraph detracts from the responsibility of the lead counsel to ensure that all counsel making submissions, or having conduct of any portion of the examination, cross- examination or re-examination of witnesses, are adequately supervised and able to handle the tasks assigned to them.
+
+(5) \[deleted]
+
+(6) \[deleted]
 
 (7) This Paragraph shall apply to all proceedings in the Family Courts, Youth Courts and Family Division of the High Court.
 
