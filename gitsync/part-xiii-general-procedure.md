@@ -1738,8 +1738,7 @@ _**Affidavits that are not filed electronically**_
 > > >
 > > > (D) extracts of transcripts.
 > >
-> > \
-> >
+> > <br>
 >
 > (b) **Markings on affidavits**
 >
@@ -1767,8 +1766,7 @@ _**Affidavits that are not filed electronically**_
 >
 > (d) **Pagination of affidavits**
 >
-> All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively. Every reference to an exhibit (or a document in an exhibit) shall include, where appropriate, the page number(s) where the exhibit (or document) can be located.\
->
+> All pages (including, where applicable, the cover page, table of contents, separator sheets and exhibit sheets) must be paginated such that the printed page numbers correspond to the page numbers in the soft copy Portable Document Format (PDF) version of the document that is filed through the Electronic Filing Service, the page number must be inserted at the top right hand corner of the page, and, where there are multiple volumes, each separate volume must start at page 1, and every page in that volume must be numbered consecutively. Every reference to an exhibit (or a document in an exhibit) shall include, where appropriate, the page number(s) where the exhibit (or document) can be located.<br>
 >
 > (da) **Font size used in affidavits**
 >
@@ -1846,8 +1844,7 @@ _**Exhibits to affidavits that are not filed electronically**_
 > \
 > (e) **Numbering**
 >
-> Where a deponent deposes to more than one affidavit to which there are exhibits in any one action, cause or proceedings, the numbering of such exhibits in all subsequent affidavits shall run consecutively throughout, and not begin again with each affidavit.\
->
+> Where a deponent deposes to more than one affidavit to which there are exhibits in any one action, cause or proceedings, the numbering of such exhibits in all subsequent affidavits shall run consecutively throughout, and not begin again with each affidavit.<br>
 >
 > (f) **References to exhibits in other affidavits**
 >
@@ -2536,11 +2533,11 @@ In exercise of the powers conferred by rules 914 and 915 of the Family Justice R
 
 > (a) establishes an Electronic Filing Service known as the Integrated Electronic Litigation System or eLitigation and accessible at http://www.elitigation.sg; and
 >
-> (b) appoints CrimsonLogic Pte Ltd as the Electronic Filing Service provider for this service.
+> (b) appoints an Electronic Filing Service provider for this service whose contact details are available at [https://www.judiciary.gov.sg/services/elitigation](https://www.judiciary.gov.sg/services/elitigation).
 
 ## 142. Appointment of agent to establish service bureau <a href="#id-142-appointment-of-agent-to-establish-service-bureau" id="id-142-appointment-of-agent-to-establish-service-bureau"></a>
 
-Pursuant to rule 917 of the Family Justice Rules, the Registrar hereby appoints CrimsonLogic Pte Ltd as an agent to establish a service bureau or service bureaux at such address(es) in Singapore as may be deemed suitable.
+Pursuant to rule 917 of the Family Justice Rules, the Registrar has appointed an agent to establish a service bureau or service bureaux at such address(es) in Singapore as may be deemed suitable, whose contact details are available at [https://www.judiciary.gov.sg/services/elitigation](https://www.judiciary.gov.sg/services/elitigation).
 
 ## 143. Registered users and authorised users <a href="#id-143-registered-users-and-authorised-users" id="id-143-registered-users-and-authorised-users"></a>
 
