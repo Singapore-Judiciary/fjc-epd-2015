@@ -20,7 +20,7 @@
 
 (1) Parties to Court proceedings in the Family Justice Courts (“FJC”) and their solicitors are required to conduct themselves in a manner that is consistent with the FJC Therapeutic Justice Model (“TJ Model”).
 
-(2) The TJ Model is issued under “Registrar’s Circular No. 2 of 2024 – Family Justice Courts Therapeutic Justice Model” and is also accessible online at the SG Courts website at [www.judiciary.gov.sg](http://www.judiciary.gov.sg).
+(2) The current version of the TJ Model is issued under “Registrar’s Circular No. 2 of 2026 – Family Justice Courts Therapeutic Justice Model” and is also accessible online at the SG Courts website at [www.judiciary.gov.sg](http://www.judiciary.gov.sg).
 
 ## 7B. Definition and objectives of Therapeutic Justice
 
