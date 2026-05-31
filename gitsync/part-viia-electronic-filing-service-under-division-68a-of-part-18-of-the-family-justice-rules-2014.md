@@ -108,7 +108,7 @@ Where a document is required to be amended, a fresh copy of the document must be
 
 > (a) the total number of pages in a single document must not exceed 999; and
 >
-> (b) the size of a single transmission must not exceed 4 mega-bytes.
+> (b) the size of a single transmission must not exceed 20 mega-bytes.
 
 (2) The resolution for scanning, unless otherwise directed by the Court, must be no more than 200 DPI.
 
