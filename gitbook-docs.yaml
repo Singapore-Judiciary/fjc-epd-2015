@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Family Justice Courts Practice Directions 2015
+  structure:
+    - type: space
+      key: space-1
+      title: Family Justice Courts Practice Directions 2015
+      path: family-justice-courts-practice-directions
+      default: true
+      content:
+        directory: ./gitsync
